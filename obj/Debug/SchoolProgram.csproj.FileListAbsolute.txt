@@ -1,0 +1,4 @@
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\SchoolProgram.csprojAssemblyReference.cache
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache
+E:\Sharp\SchoolProgram\SchoolProgram\obj\Debug\SchoolProgram.csprojAssemblyReference.cache
+E:\Sharp\SchoolProgram\SchoolProgram\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache

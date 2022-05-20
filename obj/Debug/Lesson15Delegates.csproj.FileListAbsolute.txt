@@ -1,0 +1,7 @@
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\bin\Debug\Lesson15Delegates.exe.config
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\bin\Debug\Lesson15Delegates.exe
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\bin\Debug\Lesson15Delegates.pdb
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\Lesson15Delegates.csprojAssemblyReference.cache
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\Lesson15Delegates.csproj.CoreCompileInputs.cache
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\Lesson15Delegates.exe
+E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\Lesson15Delegates.pdb
