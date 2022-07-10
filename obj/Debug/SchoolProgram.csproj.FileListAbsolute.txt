@@ -2,3 +2,10 @@ E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\SchoolProgram.csprojAssem
 E:\Sharp\Lesson15Delegates\Lesson15Delegates\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache
 E:\Sharp\SchoolProgram\SchoolProgram\obj\Debug\SchoolProgram.csprojAssemblyReference.cache
 E:\Sharp\SchoolProgram\SchoolProgram\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SchoolConsoleApp\bin\Debug\SchoolProgram.exe.config
+D:\Projects\GitHub\SchoolConsoleApp\bin\Debug\SchoolProgram.exe
+D:\Projects\GitHub\SchoolConsoleApp\bin\Debug\SchoolProgram.pdb
+D:\Projects\GitHub\SchoolConsoleApp\obj\Debug\SchoolProgram.csprojAssemblyReference.cache
+D:\Projects\GitHub\SchoolConsoleApp\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\SchoolConsoleApp\obj\Debug\SchoolProgram.exe
+D:\Projects\GitHub\SchoolConsoleApp\obj\Debug\SchoolProgram.pdb

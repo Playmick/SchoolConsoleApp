@@ -8,31 +8,34 @@ namespace SchoolProgram
 {
     class Bell
     {
+        public event Action ClockingBell;
         public void PowerOn()
         {
-            bool again = true;
+            bool again = false;
             string input = "";
-            while (again)
+            do
             {
                 again = false;
                 Console.WriteLine("Хотите включить звонок?\n" +
                                   "да/нет\n");
 
                 input = Console.ReadLine();
-                switch(input)
+                switch (input)
                 {
                     case "да":
                         Console.WriteLine("ЗВОНОК!!!!!!\n");
+                        ClockingBell?.Invoke();
                         break;
                     case "нет":
                         //выходим из цикла
+                        //again = false; в начале цикла есть уже
                         break;
                     default:
                         Console.WriteLine("Значение не распознано, введите вариант ответа числом.\n");
                         again = true;
                         break;
                 }
-            }
+            } while (again);
         }
 
 
